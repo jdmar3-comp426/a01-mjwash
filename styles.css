@@ -15,6 +15,9 @@ body {
     bottom:0;
 }
 
+.info {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 th {
     border:20px #fff;
     width:25%;
