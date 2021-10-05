@@ -15,9 +15,20 @@ body {
     bottom:0;
 }
 
-.info {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+th:hover {
+    background-color: #ffff00;
 }
+
+.main {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#ffff00;
+}
+
+div > p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 th {
     border:20px #fff;
     width:25%;
@@ -36,4 +47,15 @@ img {
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#media {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#power {
+    color:#000;
+    background-color: #f00;
+    border:5px #ffff00;
+    border-style: solid;
 }
